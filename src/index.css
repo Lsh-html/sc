@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.twoButton+.twoButton,
+.examine_button+.examine_button {
+  margin-left: 12px;
+}
+
+.cur {
+  cursor: pointer;
+}

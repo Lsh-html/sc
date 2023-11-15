@@ -1,0 +1,24 @@
+:root {
+  --theme-bg: initial;
+  /* 白色区域背景色切换 */
+  --theme-bg-white: initial;
+  /* 导航条背景色 */
+  --theme-bg-aside: initial;
+  /* 导航条移入背景色 */
+  --theme-bg-aside-hover: initial;
+  /* 导航条文字颜色 */
+  --theme-text-aside: initial;
+  /* 顶部导航条颜色 */
+  --theme-header-bg: initial;
+  --theme-color: initial;
+}
+
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  /* color: var(--theme-color);
+  border-color: var(--theme-border-color);
+  background-color: var(--theme-bg); */
+
+}
